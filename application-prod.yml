@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-production
+    name: config-production-server
 eureka:
   client:
     register-with-eureka: true
